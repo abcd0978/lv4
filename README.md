@@ -11,7 +11,7 @@ req: none
 res: 하나의 post객체  
 
 modifyPosting:PATCH  
-url: /posts/&lt;id&gt;
+url: /posts/&lt;id&gt;  
 req: {postId,post객체}  
 res: 바뀐객체  
 
