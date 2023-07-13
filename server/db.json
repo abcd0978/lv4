@@ -1,1 +1,18 @@
-{}
+{
+  "posts": [
+    {
+      "name": "dsa",
+      "title": "dasd",
+      "desc": "sadsa",
+      "id": 5
+    },
+    {
+      "name": "dsa",
+      "title": "dasdsa",
+      "desc": "dsadsa",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "users": []
+}
